@@ -3,9 +3,7 @@ hungry.c
 
 install:
 
-```
-gcc
-```
+- gcc
 
 build:
 
